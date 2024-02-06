@@ -3,8 +3,27 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<html lang="en">
+<head>EcoInvest - Home</head>
+<body>
+    <header>
+        <h1>EcoInvest</h1>
+        <p>Invest Towards a Better Tomorrow!</p>
+    </header>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <section>
+        <h2>Invest with Purpose</h2>
+        <p>Join EcoInvest and make a positive impact on the planet through sustainable investing. We provide real-time data on companies that align with your environmental values, simplifying the investment process for a greener future.</p>
+        <p>Sign up today and be part of the movement towards a sustainable and profitable future!</p>
+        <button type="button" class="btn btn-outline-success" onclick="location.href='Identity/Account/Register';">Sign Up Here</button>
+        <p>Have an account already?</p>
+        <button type="button" class="btn btn-outline-success" onclick="location.href='Identity/Account/Login';">Login Here</button>
+    </section>
+
+    <section>
+        <h2>Need More Information?</h2>
+        <p>Here are some links to articles for more information.</p>
+        <button type="button" class="btn btn-outline-info" onclick="location.href='/Information';">More Information</button>
+    </section>
+</body>
+</html>
