@@ -21,16 +21,19 @@ These pages are just placeholders until the class progresses far enough to incor
 
 ## Website 1: Robinhood
 - Website URL: [Robinhood](https://robinhood.com/us/en/)
+- I would like to pull in stock data of companies and compare it against climate data. I chose Robinhood as one of my sites because they are well known in investing. I also noticed the use of smaller charts that show 1 day stock price changes and I want to use these to show the data of stock prices against climate data.  I also want to include a way for people to sign up for an account or sign into their account. 
 - Description: Robinhood is a well-known platform for investing in stocks. The website provides real-time stock data, including 1-day stock price changes.
 - Project Use: This website will be used to fetch stock data for analysis and display it in conjunction with climate data. Additionally, it may be used to incorporate user account functionality.
 
 ## Website 2: Coinbase
 - Website URL: [Coinbase](https://www.coinbase.com/)
+- I chose Coinbase because there is a change that I might want to potentially include cryptocurrency into the site. Like with Robinhood, Coinbase is well known for buying, selling, and trading cryptocurrencies. I might also want to incorporate an API for crypto data.
 - Description: Coinbase is a popular platform for buying, selling, and trading cryptocurrencies. It offers a variety of cryptocurrencies for trading.
 - Project Use: Coinbase may be considered for potential inclusion of cryptocurrency data into the project. The website also provides APIs for crypto data integration. However, these cost money. I might use their API if I plan on developing this application.
 
 ## Website 3: Green America
 - Website URL: [Green America](https://www.greenamerica.org/)
+- Green America is a leading nonprofit organization that focuses on sustainability and ethical business practices. While investigating their website I did not notice any bootstrap, but perhaps I missed it. I also noticed the use of many classes and id. A few things I want to incorporate into my website would be a collapsable menu with hyperlinks to more pages of the website and maybe linked images to more information or articles and potentially a search bar. They used many things that I am not aware of but that also gives me many things to research and potentially use.
 - Description: Green America is a leading nonprofit organization focused on sustainability and ethical business practices. The website may contain valuable design and functionality elements.
 - Project Use: Inspiration may be drawn from Green America's website, such as collapsible menus with hyperlinks, linked images for additional information, articles, and a search bar.
 
